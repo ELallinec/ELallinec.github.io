@@ -1,5 +1,5 @@
 baseURL = 'http://elallinec.github.io'
 languageCode = 'fr-fr'
-title = 'About me'
+title = 'Ewen Lallinec'
 publishDir = "docs"
-theme = 'ananke'
+theme = 'cactus'
