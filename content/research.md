@@ -10,7 +10,7 @@ To be published:
 ## Talks
 * An introduction to the quantum modeling of materials - *PhD Student Seminar, LMO, Orsay, France, (Jan 2025)*
 * TBA, *PhD Student Seminar - LAmmE (Evry), France, (2025)*
-* TBA, *PhD Student Seminar - Cermics (Champs-Sur-Marne), France (2025)* 
+* TBA, *PhD Student Seminar - Cermics (Champs-Sur-Marne), France (Feb 2025)* 
 * High-order methods for Brillouin zone integration in electronic structure - *Recent Progress in Higher-Order Numerical Integration, Montreal, Canada, (Incoming: July 2025)*
 
 ## Conferences and Scientific Schools attended
