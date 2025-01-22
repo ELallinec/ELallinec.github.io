@@ -5,5 +5,5 @@
 	path = themes/cactus
 	url = https://github.com/monkeyWzr/hugo-theme-cactus.git
 [submodule "themes/researcher"]
-    patg = themes/researcher
+    path = themes/researcher
     url = https://github.com/ojroques/hugo-researcher/tree/master
