@@ -8,6 +8,7 @@ googleAnalytics = ""  # add your tracking id
 enableRobotsTXT = true
 defaultContentLanguage = "en"
 defaultContentLanguageInSubdir = true
+light=false
 [params]
   author = "Ewen Lallinec"
   description = "Personal website of Ewen Lallinec, made using Hugo template for researcher."
