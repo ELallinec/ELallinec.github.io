@@ -1,6 +1,6 @@
 
 baseURL = "https://elallinec.github.io/"
-theme = "researcher2"
+theme = "researcher"
 disableKinds = ["taxonomy", "term"]
 enableEmoji = true
 math = true          # enable KaTeX (https://katex.org/) globally
