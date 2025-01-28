@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>https://elallinec.github.io/en/contact/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr-FR"
+                href="https://elallinec.github.io/fr/contact/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-US"
+                href="https://elallinec.github.io/en/contact/"
+                />
+  </url><url>
+    <loc>https://elallinec.github.io/en/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr-FR"
+                href="https://elallinec.github.io/fr/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-US"
+                href="https://elallinec.github.io/en/"
+                />
+  </url><url>
+    <loc>https://elallinec.github.io/en/research/</loc>
+  </url><url>
+    <loc>https://elallinec.github.io/en/teaching/</loc>
+  </url>
+</urlset>

@@ -9,6 +9,7 @@ I am a 2nd year PhD student under the supervision of [Antoine Levitt](https://ww
 
 My full CV is available [here](/cv.pdf).
 
+Pour accéder à la version française du site, cliquez [ici](/fr).
 # Research Interest
 
 I study numerical methods and more especially numerical integration methods used in both material sciences and quantum chemistry. 

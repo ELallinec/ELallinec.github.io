@@ -1,59 +1,92 @@
-title = "Ewen Lallinec"
-baseURL = "https://elallinec.github.io"
+
+baseURL = "https://elallinec.github.io/"
 theme = "researcher"
 disableKinds = ["taxonomy", "term"]
 enableEmoji = true
 math = true          # enable KaTeX (https://katex.org/) globally
-googleAnalytics = ""  # add your tracking id
+googleAnalytics = "" # add your tracking id
 enableRobotsTXT = true
 defaultContentLanguage = "en"
 defaultContentLanguageInSubdir = true
-light=false
+
 [params]
   author = "Ewen Lallinec"
   description = "Personal website of Ewen Lallinec, made using Hugo template for researcher."
   favicon = "MyIcon.ico"  # path to a .ico to use as favicon
-  logo = "MyIcon.ico"  # url or path to a logo to put in the header
+  logo = "MyIcon.ico"     # url or path to a logo to put in the header
+  
   [params.footer]
     text = "By Ewen Lallinec"
-    url = "https://github.com/ELallinec"
+    url = "."
+
   [params.style]  # appearance options (can be omitted)
     fontFamily = "Inconsolata"
     fontSize = "14pt"
-    pageWidth = "750px"
+    pageWidth = "800px"
     avatarSize = "110px"
     colorBlack = "#222222"
     colorRed = "#dc3545"
+
   [[params.socialIcons]]
     icon = "fab fa-github"
     title = "Github"
     url = "https://github.com/ELallinec"
+
   [[params.socialIcons]]
     icon = "fas fa-envelope"
     title = "E-mail"
-    url = "mailto:ewen.lallinec@universite-paris-saclay.Fr"
-  #[[params.socialIcons]]
-    #icon = "ai ai-google-scholar"
-    #title = "Scholar"
-    #url = "https://scholar.google.com/"
+    url = "mailto:ewen.lallinec@universite-paris-saclay.fr"
 
-[permalinks]
-  "/" = "/:filename"
+[languages]
+  [languages.en]
 
-[menu]
-  [[menu.main]]
-    name = "Research"
-    url = "/research"
+    contentDir = "content/en"
+    languageCode = "en-US"
+    languageName = "English"
+    title = "Ewen Lallinec"
     weight = 1
-  [[menu.main]]
-    name = "Teaching"
-    url = "/teaching"
-    weight = 2
-  [[menu.main]]
+
+    [languages.en.menus]
+      [[languages.en.menus.main]]
+        name = "Research"
+        url = "/en/research"
+        weight = 10
+
+      [[languages.en.menus.main]]
+        name = "Teaching"
+        url = "/en/teaching"
+        weight = 20
+
+      [[languages.en.menus.main]]
+        name = "Contact"
+        url = "/en/contact"
+        weight = 30
+
+  [languages.fr]
+
+contentDir = "content/fr"
+disabled = false
+languageCode = "fr-FR"
+languageName = "Français"
+title = "Ewen Lallinec"
+url= "/fr/index"
+weight = 2
+[languages.fr.menus]
+  [[languages.fr.menus.main]]
+    name = "Recherche"
+    url = "/fr/recherche"
+    weight = 10
+  [[languages.fr.menus.main]]
+    name = "Enseignement"
+    url = "/fr/enseignement"
+    weight = 20
+  [[languages.fr.menus.main]]
     name = "Contact"
-    url = "/contact"
-    weight = 3
-  
-  
+    url = "/fr/contact"
+    weight = 30
+
+
+
 [markup.goldmark.renderer]
   unsafe = true  # allow raw HTML in markdown files
+
