@@ -1,5 +1,6 @@
 +++
 title = "Contact"
+lang = "en"
 +++
 
 * Email: [nom.prenom@universite-paris-saclay.fr](mailto:ewen.lallinec@universite-paris-saclay.fr)
