@@ -2,30 +2,30 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Ewen Lallinec</title>
-    <link>http://localhost:1313/en/</link>
+    <link>https://elallinec.github.io/en/</link>
     <description>Recent content on Ewen Lallinec</description>
     <generator>Hugo</generator>
     <language>en-US</language>
-    <atom:link href="http://localhost:1313/en/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://elallinec.github.io/en/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Contact</title>
-      <link>http://localhost:1313/en/contact/</link>
+      <link>https://elallinec.github.io/en/contact/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/en/contact/</guid>
+      <guid>https://elallinec.github.io/en/contact/</guid>
       <description>&lt;ul&gt;&#xA;&lt;li&gt;Email: &lt;a href=&#34;mailto:ewen.lallinec@universite-paris-saclay.fr&#34;&gt;nom.prenom@universite-paris-saclay.fr&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;Office: 2A4, Institut de Mathématiques D&amp;rsquo;Orsay, 307 rue Michel Magat, Orsay&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;hr&gt;</description>
     </item>
     <item>
       <title>Research</title>
-      <link>http://localhost:1313/en/research/</link>
+      <link>https://elallinec.github.io/en/research/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/en/research/</guid>
+      <guid>https://elallinec.github.io/en/research/</guid>
       <description>&lt;h2 id=&#34;publications&#34;&gt;Publications&lt;/h2&gt;&#xA;&lt;p&gt;To be published:&lt;/p&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;E.Lallinec, A.Levitt: Benchmark of numerical methods for density of states computation&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;h2 id=&#34;talks&#34;&gt;Talks&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;An introduction to the quantum modeling of materials - &lt;em&gt;PhD Student Seminar, LMO, Orsay, France, (Jan 2025)&lt;/em&gt;&lt;/li&gt;&#xA;&lt;li&gt;TBA, &lt;em&gt;PhD Student Seminar - LAmmE (Evry), France, (2025)&lt;/em&gt;&lt;/li&gt;&#xA;&lt;li&gt;TBA, &lt;em&gt;PhD Student Seminar - Cermics (Champs-Sur-Marne), France (Feb 2025)&lt;/em&gt;&lt;/li&gt;&#xA;&lt;li&gt;High-order methods for Brillouin zone integration in electronic structure - &lt;em&gt;Recent Progress in Higher-Order Numerical Integration, Montreal, Canada, (Incoming: July 2025)&lt;/em&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;conferences-and-scientific-schools-attended&#34;&gt;Conferences and Scientific Schools attended&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;TRIQS Summer School - &lt;em&gt;Paris Area, France, (August 2023)&lt;/em&gt;&lt;/li&gt;&#xA;&lt;li&gt;5th and 6th editions of the GDR NBody Mini-School on mathematics for theoretical chemistry and physics - &lt;em&gt;LJLL, Paris, France (June 2023 and May 2024)&lt;/em&gt;&lt;/li&gt;&#xA;&lt;li&gt;Workshop on Model Systems in Quantum Mechanics (MSQM) - &lt;em&gt;Université Paul Sabatier, Toulouse, France (Jan 2024)&lt;/em&gt;&lt;/li&gt;&#xA;&lt;li&gt;MANUEL Conference - &lt;em&gt;University of Stuttgart, Stuttgart, Germany (Sep 2024)&lt;/em&gt;&lt;/li&gt;&#xA;&lt;li&gt;Julia Workshop - &lt;em&gt;CECAM, Lausanne, Switzerland, (Nov 2024)&lt;/em&gt;&lt;/li&gt;&#xA;&lt;li&gt;ICOSAHOM - &lt;em&gt;Montreal, Canada, (July 2025)&lt;/em&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;posters&#34;&gt;Posters&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Benchmark of numerical methods for density of states computation, &lt;em&gt;MANUEL Conf, Stuttgart, Germany, (Sep 2024)&lt;/em&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;other-scientific-activites&#34;&gt;Other scientific activites&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Facilitation of workshop about polyhedra for primary school students during the &amp;lsquo;Fête de la Science,&amp;rsquo; a national week of workshops designed to inspire children to learn more about science, &lt;em&gt;(Oct 2025)&lt;/em&gt;&lt;/li&gt;&#xA;&lt;li&gt;Presentation of my PhD topic at a &lt;a href=&#34;https://fondation-hadamard.fr/fr/evenements/les-rencontres-mathtech/&#34;&gt;networking day&lt;/a&gt; connecting mathematics PhD and PostDoc researchers with professionals from private companies, &lt;em&gt;(Jan 2025)&lt;/em&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
     </item>
     <item>
       <title>Teaching</title>
-      <link>http://localhost:1313/en/teaching/</link>
+      <link>https://elallinec.github.io/en/teaching/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/en/teaching/</guid>
+      <guid>https://elallinec.github.io/en/teaching/</guid>
       <description>&lt;h1 id=&#34;2023---2024&#34;&gt;2023 - 2024&lt;/h1&gt;&#xA;&lt;h4 id=&#34;iut-dorsay---département-mesures-physiques&#34;&gt;IUT d&amp;rsquo;Orsay - Département Mesures Physiques&lt;/h4&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;Outils Mathématiques (L1)&lt;/strong&gt; - Trigonométrie, Nombres Complexes, Intégration, Dérivation, Equation Différentielles&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Outils Mathématiques (L3)&lt;/strong&gt; -  Intégrale Curviligne, Intégrale De Surface, Intégrale Double, Intégrale Triple&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Traitement Des Données (L1)&lt;/strong&gt; - Etude statistiques de champs de données sur Excel&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h1 id=&#34;2024---2025&#34;&gt;2024 - 2025&lt;/h1&gt;&#xA;&lt;h4 id=&#34;iut-dorsay---département-mesures-physiques-1&#34;&gt;IUT d&amp;rsquo;Orsay - Département Mesures Physiques&lt;/h4&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;Outils Mathématiques (L1)&lt;/strong&gt; -  Géométrie Cartésienne, Développements Limités, Fonctions de Plusieurs Variables, Intégration, Espaces Vectoriels, Applications Linéaires et Matrices&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Outils Mathématiques (L2)&lt;/strong&gt; - Probabilités Continues, Régression Linéaire, Tests D&amp;rsquo;Hypothèse, Diagonalisation D&amp;rsquo;Endomorphismes&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Outils Mathématiques (L3)&lt;/strong&gt; - Intégrale Curviligne, Intégrale De Surface, Intégrale Double, Intégrale Triple&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Traitement Des Données (L1)&lt;/strong&gt; - Etude statistiques de champs de données sur Excel&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
     </item>
   </channel>
