@@ -10,7 +10,7 @@ I am a 2nd year PhD student under the supervision of [Antoine Levitt](https://ww
 
 My full CV is available [here](/cv.pdf).
 
-Pour accéder à la version française du site, cliquez [ici](/fr).
+Pour accéder à la version française du site, cliquez  🇫🇷 [ici](/fr) 🇫🇷
 # Research Interest
 
 I study numerical methods and more especially numerical integration methods used in both material sciences and quantum chemistry. 
@@ -21,12 +21,12 @@ I study numerical methods and more especially numerical integration methods used
 * Linear Algebra
 * Complex Analysis
 
-## Some notes 
+# Some notes 
 Here are some notes that I wrote and that might be useful to some people. 
 
 * [Small notes](/lt.pdf) about Linear Tetrahedron method.
 
-## Programming
+# Programming
 
 A main part of my work is to implement and test numerical methods for the computation of electronic properties.
 To do so I use [Julia](https://julialang.org/). 

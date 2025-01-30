@@ -10,8 +10,7 @@ Je suis doctorant en 2ème année sous la direction d'[Antoine Levitt](https://w
 
 Mon CV détaillé est disponible [ici](/cv.pdf).
 
-For the english version of my website, click right [here](/en).
-
+For the english version of my website, click right 🇬🇧  [here](/en) 🇬🇧
 # Sujets de recherche
 J'étudie l'analyse numérique et plus précisement les méthodes d'intégration numérique utilisées en sciences des matériaux et chimie quantique.
 
@@ -26,7 +25,7 @@ Voici quelques notes que j'ai tapées qui peuvent être utiles (ou non ?) à cer
 
 * [Des petites notes](/lt.pdf) à propos de la Linear Tetrahedron method.
 
-# Programation
+# Programmation
 
 Une grande partie de mon travail consiste à implémenter et tester des méthodes numériques pour le calcul de propriétés électroniques.
 Je travaille uniquement en [Julia](https://julialang.org/). 

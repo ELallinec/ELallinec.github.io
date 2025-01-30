@@ -35,15 +35,6 @@
     </div>
 </div>
 <style>
-
-/*
- * Dark Mode Toggle
- * Copyright (c) 2015 instructure-react
- * Forked from Dan Abramov's personal blog
- * https://github.com/gaearon/overreacted.io/blob/master/src/components/Toggle.css
- * MIT License
-**/
-
 .js-toggle-wrapper {
     display: table;
     margin: 0 auto;
@@ -82,7 +73,15 @@
     background-color: hsl(222, 14%, 7%);
     transition: all 0.2s ease;
   }
-  
+
+    .js-toggle-track {
+        background-color: hsl(210, 20%, 30%); /* Darker background in dark mode - adjust as needed */
+    }
+
+    .js-toggle-thumb {
+        background-color: #fff; /* White thumb in dark mode */
+    }
+
   .js-toggle-track-check {
     position: absolute;
     width: 17px;
