@@ -22,7 +22,7 @@ defaultContentLanguageInSubdir = true
   [params.style]  # appearance options (can be omitted)
     fontFamily = "Inconsolata"
     fontSize = "14pt"
-    pageWidth = "800px"
+    pageWidth = "900px"
     avatarSize = "110px"
     colorBlack = "#222222"
     colorRed = "#dc3545"

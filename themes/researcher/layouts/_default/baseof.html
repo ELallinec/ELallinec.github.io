@@ -1,6 +1,7 @@
 <!DOCTYPE html>
 <html lang="{{ .Site.Language.Lang }}">
     {{- partial "head.html" . -}}
+
     {{ if or (.Params.math) (.Site.Params.math) }}
         {{- partial "math.html" . -}}
     {{ end }}
@@ -14,6 +15,7 @@
         {{ if and (not hugo.IsServer) .Site.Data.consent }}
         {{- partial "consent.html" . -}}
         {{ end }}
+
     </body>
 </html>
 

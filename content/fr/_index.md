@@ -15,23 +15,22 @@ For the english version of my website, click right [here](/en).
 # Sujets de recherche
 J'étudie l'analyse numérique et plus précisement les méthodes d'intégration numérique utilisées en sciences des matériaux et chimie quantique.
 
-### Quelques mots-clés
+#### Quelques mots-clés
 * Analyse numérique
 * Mécanique quantique 
 * Algèbre linéaire
 * Analyse complexe
 
-## Quelques notes
+# Quelques notes
 Voici quelques notes que j'ai tapées qui peuvent être utiles (ou non ?) à certains
 
-* [Des petites ntoes](/lt.pdf) à propos de la Linear Tetrahedron method.
+* [Des petites notes](/lt.pdf) à propos de la Linear Tetrahedron method.
 
-## Programming
+# Programation
 
-A main part of my work is to implement and test numerical methods for the computation of electronic properties.
-Une grande partie de mon travail consiste à implémenter et tester des méthodes numériques.
+Une grande partie de mon travail consiste à implémenter et tester des méthodes numériques pour le calcul de propriétés électroniques.
 Je travaille uniquement en [Julia](https://julialang.org/). 
 
-Here are some packages I contributed to 
-* AutoBZCore.jl (implementation of 2 numerical methods for DOS computation)
+Voici quelques packages auxquels j'ai contribué
+* AutoBZCore.jl - Implémentation de 2 méthodes numériques pour le calcul de densité d'état
 * ImplicitIntegration.jl 

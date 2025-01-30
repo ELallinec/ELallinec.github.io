@@ -4,14 +4,15 @@ lang = "en"
 +++
 
 # 2023 - 2024
-#### IUT d'Orsay - Département Mesures Physiques
-* **Outils Mathématiques (L1)** - Trigonométrie, Nombres Complexes, Intégration, Dérivation, Equation Différentielles
-* **Outils Mathématiques (L3)** -  Intégrale Curviligne, Intégrale De Surface, Intégrale Double, Intégrale Triple
-* **Traitement Des Données (L1)** - Etude statistiques de champs de données sur Excel
+### IUT d'Orsay - Département Mesures Physiques
+* **Mathematical Tools (B1)** - Trigonometry, Complex Numbers, Integration, Differentiation, Differential Equations
+* **Mathematical Tools (B3)** - Curvilinear Integral, Surface Integral, Double Integral, Triple Integral
+* **Data Processing (B1)** - Statistics, Excel
 
 # 2024 - 2025
-#### IUT d'Orsay - Département Mesures Physiques
-* **Outils Mathématiques (L1)** -  Géométrie Cartésienne, Développements Limités, Fonctions de Plusieurs Variables, Intégration, Espaces Vectoriels, Applications Linéaires et Matrices
-* **Outils Mathématiques (L2)** - Probabilités Continues, Régression Linéaire, Tests D'Hypothèse, Diagonalisation D'Endomorphismes
-* **Outils Mathématiques (L3)** - Intégrale Curviligne, Intégrale De Surface, Intégrale Double, Intégrale Triple
-* **Traitement Des Données (L1)** - Etude statistiques de champs de données sur Excel
+### IUT d'Orsay - Département Mesures Physiques
+* **Mathematical Tools (B1)** - Cartesian Geometry, Taylor Expansions, Functions of Several Variables, Integration, Vector Spaces, Linear Applications and Matrices
+* **Mathematical Tools (B2)** - Continuous Probabilities, Linear Regression, Hypothesis Testing, Diagonalization of Endomorphisms
+* **Mathematical Tools (B3)** - Curvilinear Integral, Surface Integral, Double Integral, Triple Integral
+* **Data Processing (B1)** - Statistics, Excel
+
