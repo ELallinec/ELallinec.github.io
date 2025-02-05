@@ -2,30 +2,30 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Ewen Lallinec</title>
-    <link>http://localhost:1313/fr/</link>
+    <link>https://elallinec.github.io/fr/</link>
     <description>Recent content on Ewen Lallinec</description>
     <generator>Hugo</generator>
     <language>fr-FR</language>
-    <atom:link href="http://localhost:1313/fr/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://elallinec.github.io/fr/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Contact</title>
-      <link>http://localhost:1313/fr/contact/</link>
+      <link>https://elallinec.github.io/fr/contact/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/fr/contact/</guid>
+      <guid>https://elallinec.github.io/fr/contact/</guid>
       <description>&lt;ul&gt;&#xA;&lt;li&gt;Email: &lt;a href=&#34;mailto:ewen.lallinec@universite-paris-saclay.fr&#34;&gt;nom.prenom@universite-paris-saclay.fr&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;Bureau: 2A4, Institut de Mathématiques D&amp;rsquo;Orsay, 307 rue Michel Magat, Orsay&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;hr&gt;</description>
     </item>
     <item>
       <title>Enseignement</title>
-      <link>http://localhost:1313/fr/enseignement/</link>
+      <link>https://elallinec.github.io/fr/enseignement/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/fr/enseignement/</guid>
+      <guid>https://elallinec.github.io/fr/enseignement/</guid>
       <description>&lt;h1 id=&#34;2023---2024&#34;&gt;2023 - 2024&lt;/h1&gt;&#xA;&lt;h3 id=&#34;iut-dorsay---département-mesures-physiques&#34;&gt;IUT d&amp;rsquo;Orsay - Département Mesures Physiques&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;Outils Mathématiques (L1)&lt;/strong&gt; - Trigonométrie, Nombres Complexes, Intégration, Dérivation, Equation Différentielles&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Outils Mathématiques (L3)&lt;/strong&gt; -  Intégrale Curviligne, Intégrale De Surface, Intégrale Double, Intégrale Triple&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Traitement Des Données (L1)&lt;/strong&gt; - Statistiques, Excel&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;hr&gt;&#xA;&lt;h1 id=&#34;2024---2025&#34;&gt;2024 - 2025&lt;/h1&gt;&#xA;&lt;h3 id=&#34;iut-dorsay---département-mesures-physiques-1&#34;&gt;IUT d&amp;rsquo;Orsay - Département Mesures Physiques&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;Outils Mathématiques (L1)&lt;/strong&gt; -  Géométrie Cartésienne, Développements Limités, Fonctions de Plusieurs Variables, Intégration, Espaces Vectoriels, Applications Linéaires et Matrices&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Outils Mathématiques (L2)&lt;/strong&gt; - Probabilités Continues, Régression Linéaire, Tests D&amp;rsquo;Hypothèse, Diagonalisation D&amp;rsquo;Endomorphismes&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Outils Mathématiques (L3)&lt;/strong&gt; - Intégrale Curviligne, Intégrale De Surface, Intégrale Double, Intégrale Triple&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Traitement Des Données (L1)&lt;/strong&gt; - Statistiques, Excel&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
     </item>
     <item>
       <title>Recherche</title>
-      <link>http://localhost:1313/fr/recherche/</link>
+      <link>https://elallinec.github.io/fr/recherche/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/fr/recherche/</guid>
+      <guid>https://elallinec.github.io/fr/recherche/</guid>
       <description>&lt;h1 id=&#34;publications&#34;&gt;Publications&lt;/h1&gt;&#xA;&lt;p&gt;Bientôt publié:&lt;/p&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;E.Lallinec, A.Levitt: Benchmark of numerical methods for density of states computation&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;hr&gt;&#xA;&lt;h1 id=&#34;présentations-orales&#34;&gt;Présentations Orales&lt;/h1&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;em&gt;Une introduction à la modélisation quantique des matériaux,&lt;/em&gt; &lt;br&gt;&#xA;Séminaire de vulgarisation des doctorants, LMO,(Janvier 2025)&lt;/li&gt;&#xA;&lt;li&gt;&lt;em&gt;Méthodes d&amp;rsquo;ordre élevé pour l&amp;rsquo;intégration dans la zone de Brillouin,&lt;/em&gt; &lt;br&gt;&#xA;Séminaire des jeunes chercheurs - Cermics, (Février 2025)&lt;/li&gt;&#xA;&lt;li&gt;&lt;em&gt;A déterminer,&lt;/em&gt; &lt;br&gt;&#xA;Séminaire des doctorants - LaMMe, (A venir: Février 2025)&lt;/li&gt;&#xA;&lt;li&gt;&lt;em&gt;Méthodes d&amp;rsquo;ordre élevé pour l&amp;rsquo;intégration dans la zone de Brillouin,&lt;/em&gt; &lt;br&gt;&#xA;Recent Progress in Higher-Order Numerical Integration, (A venir: Juillet 2025)&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;hr&gt;&#xA;&lt;h1 id=&#34;conférences-et-écoles-scientifiques&#34;&gt;Conférences et écoles scientifiques&lt;/h1&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;em&gt;TRIQS Summer School,&lt;/em&gt;  &lt;br&gt;&#xA;Centre Port-Royal, France, (August 2023)&lt;/li&gt;&#xA;&lt;li&gt;&lt;em&gt;5ème et 6ème édition  de la &amp;ldquo;Mini-school sur les mathématiques pour la chimie et la physique quantique&amp;rdquo; du GDR NBody,&lt;/em&gt; &lt;br&gt;&#xA;LJLL,(Juin 2023 et Mai 2024)&lt;/li&gt;&#xA;&lt;li&gt;&lt;em&gt;Workshop sur les Systèmes Modèles en Chimie Quantique (MSQM),&lt;/em&gt; &lt;br&gt;&#xA;Université Paul Sabatier, (Janvier 2024)&lt;/li&gt;&#xA;&lt;li&gt;&lt;em&gt;MANUEL Conference,&lt;/em&gt; &lt;br&gt;&#xA;Université de Stuttgart, (Septembre 2024)&lt;/li&gt;&#xA;&lt;li&gt;&lt;em&gt;Julia pour des problèmes numériques en physique quantique et des milieux condensés,&lt;/em&gt; &lt;br&gt;&#xA;CECAM, Lausanne,  (Novembre 2024)&lt;/li&gt;&#xA;&lt;li&gt;&lt;em&gt;International Congress Of Spectral And High-Order Methods (ICOSAHOM 2025),&lt;/em&gt; &lt;br&gt;&#xA;Montreal, (A venir: Juillet 2025)&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;hr&gt;&#xA;&lt;h1 id=&#34;posters&#34;&gt;Posters&lt;/h1&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;em&gt;Benchmark of numerical methods for density of states computation,&lt;/em&gt; &lt;br&gt;&#xA;MANUEL Conf, Stuttgart, (Septembre 2024)&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;hr&gt;&#xA;&lt;h1 id=&#34;autres-activités-scientifiques&#34;&gt;Autres activités scientifiques&lt;/h1&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;em&gt;Atelier scientifique sur les polyhèdres pour des classes de CE1 durant la Fête de la Science,&lt;/em&gt; (Octobre 2025)&lt;/li&gt;&#xA;&lt;li&gt;&lt;em&gt;Présentation de mon sujet de thèse aux &lt;a href=&#34;https://fondation-hadamard.fr/fr/evenements/les-rencontres-mathtech/&#34;&gt;rencontres MathTech&lt;/a&gt;&lt;/em&gt;, (Janvier 2025)&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
     </item>
   </channel>
