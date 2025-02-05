@@ -169,10 +169,6 @@ li {
 margin: 10px
 }
 
-ul li {
-  /* Augmente l'espacement horizontal entre la puce et le texte */
-  padding-left: 20px; 
-}
 body.dark-mode, 
 body.dark-mode main * {
     background-color: #1e1e1e;
@@ -218,14 +214,16 @@ body.dark-mode p,
 body.dark-mode span, 
 body.dark-mode li, 
 body.dark-mode div {
-    color: #d3d3d3 !important; /* Updated to light grey */
+    color: #ffffff !important; /* Updated to light grey */
+}
+
+body.dark-mode #footer a, 
+body.dark-mode #footer small, 
+body.dark-mode #footer i {
+    color: #d3d3d3 !important;
 }
 
 body.dark-mode li {
 margin: 10px
 }
 
-body.dark-mode ul li {
-  /* Augmente l'espacement horizontal entre la puce et le texte */
-  padding-left: 20px; 
-}
