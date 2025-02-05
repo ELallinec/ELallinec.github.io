@@ -36,6 +36,7 @@ defaultContentLanguageInSubdir = true
     icon = "fab fa-linkedin"
     title = "Linkedin"
     url = "https://www.linkedin.com/in/ewen-lallinec-6b5a44159/"   
+
   [[params.socialIcons]]
     icon = "fas fa-envelope"
     title = "E-mail"
