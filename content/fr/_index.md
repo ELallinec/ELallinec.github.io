@@ -11,10 +11,11 @@ Je suis doctorant en 2ème année sous la direction d'[Antoine Levitt](https://w
 Mon CV détaillé est disponible [ici](/cv.pdf).
 
 For the english version of my website, click right 🇬🇧  [here](/en) 🇬🇧
+
 # Sujets de recherche
 J'étudie l'analyse numérique et plus précisement les méthodes d'intégration numérique utilisées en sciences des matériaux et chimie quantique.
 
-#### Quelques mots-clés
+### Quelques mots-clés
 * Analyse numérique
 * Mécanique quantique 
 * Algèbre linéaire
@@ -23,7 +24,7 @@ J'étudie l'analyse numérique et plus précisement les méthodes d'intégration
 # Quelques notes
 Voici quelques notes que j'ai tapées qui peuvent être utiles (ou non ?) à certains
 
-* [Des petites notes](/lt.pdf) à propos de la Linear Tetrahedron method.
+* [Des petites notes](/lt.pdf) sjr la Linear Tetrahedron méthode pour la DOS en 1D, 2D et 3D. 
 
 # Programmation
 

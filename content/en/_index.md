@@ -24,7 +24,7 @@ I study numerical methods and more especially numerical integration methods used
 # Some notes 
 Here are some notes that I wrote and that might be useful to some people. 
 
-* [Small notes](/lt.pdf) about Linear Tetrahedron method.
+* [Small notes](/lt.pdf) about Linear Tetrahedron method for the DOS in 1D, 2D and 3D.
 
 # Programming
 
