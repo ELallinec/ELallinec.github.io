@@ -55,17 +55,17 @@ defaultContentLanguageInSubdir = false
     [languages.en.menus]
       [[languages.en.menus.main]]
         name = "Research"
-        url = "/en/research"
+        url = "/research"
         weight = 10
 
       [[languages.en.menus.main]]
         name = "Teaching"
-        url = "/en/teaching"
+        url = "/teaching"
         weight = 20
 
       [[languages.en.menus.main]]
         name = "Contact"
-        url = "/en/contact"
+        url = "/contact"
         weight = 30
 
   [languages.fr]
