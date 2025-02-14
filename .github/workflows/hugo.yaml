@@ -50,6 +50,15 @@ jobs:
         uses: actions/configure-pages@v5
       - name: Install Node.js dependencies
         run: "[[ -f package-lock.json || -f npm-shrinkwrap.json ]] && npm ci || true"
+      
+      # Clear Hugo cache to prevent outdated content from being used
+      - name: Clear Hugo Cache
+        run: rm -rf ${{ runner.temp }}/hugo_cache
+
+      # Ensure old build files are removed before generating new ones
+      - name: Clean old build
+        run: rm -rf public
+      
       - name: Build with Hugo
         env:
           HUGO_CACHEDIR: ${{ runner.temp }}/hugo_cache
@@ -60,6 +69,11 @@ jobs:
             --gc \
             --minify \
             --baseURL "${{ steps.pages.outputs.base_url }}/"
+
+      # Verify that the build output contains the expected files
+      - name: Verify build output
+        run: ls -la ./public
+
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
         with:
@@ -76,3 +90,4 @@ jobs:
       - name: Deploy to GitHub Pages
         id: deployment
         uses: actions/deploy-pages@v4
+
