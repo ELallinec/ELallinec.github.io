@@ -24,7 +24,7 @@ J'étudie l'analyse numérique et plus précisement les méthodes d'intégration
 # Quelques notes
 Voici quelques notes que j'ai tapées qui peuvent être utiles (ou non ?) à certains
 
-* [Des petites notes](/lt.pdf) sjr la Linear Tetrahedron méthode pour la DOS en 1D, 2D et 3D. 
+* [Des petites notes](/lt.pdf) sur la Linear Tetrahedron méthode pour la DOS en 1D, 2D et 3D. 
 
 # Programmation
 

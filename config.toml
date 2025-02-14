@@ -7,7 +7,7 @@ math = true          # enable KaTeX (https://katex.org/) globally
 googleAnalytics = "" # add your tracking id
 enableRobotsTXT = true
 defaultContentLanguage = "en"
-defaultContentLanguageInSubdir = true
+defaultContentLanguageInSubdir = false
 
 [params]
   author = "Ewen Lallinec"

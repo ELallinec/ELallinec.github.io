@@ -15,7 +15,7 @@ Pour accéder à la version française du site, cliquez  🇫🇷 [ici](/fr) �
 
 I study numerical methods and more especially numerical integration methods used in both material sciences and quantum chemistry. 
 
-#### Some Keywords
+### Some Keywords
 * Numerical Analysis
 * Quantum Mechanics
 * Linear Algebra
