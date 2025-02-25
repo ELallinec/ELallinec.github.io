@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://elallinec.github.io/en/contact/</loc>
+    <loc>https://elallinec.github.io/contact/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr-FR"
@@ -11,10 +11,10 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="en-US"
-                href="https://elallinec.github.io/en/contact/"
+                href="https://elallinec.github.io/contact/"
                 />
   </url><url>
-    <loc>https://elallinec.github.io/en/</loc>
+    <loc>https://elallinec.github.io/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr-FR"
@@ -23,11 +23,11 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="en-US"
-                href="https://elallinec.github.io/en/"
+                href="https://elallinec.github.io/"
                 />
   </url><url>
-    <loc>https://elallinec.github.io/en/research/</loc>
+    <loc>https://elallinec.github.io/research/</loc>
   </url><url>
-    <loc>https://elallinec.github.io/en/teaching/</loc>
+    <loc>https://elallinec.github.io/teaching/</loc>
   </url>
 </urlset>
