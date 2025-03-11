@@ -1,51 +1,56 @@
 +++
 title = "Recherche"
+lang = "fr"
 +++
 
-# Publications
+## Publications
 
-Bientôt publié:
-1. E.Lallinec, A.Levitt: Benchmark of numerical methods for density of states computation
+*À paraître :*  
+1. **E. Lallinec, A. Levitt** : Benchmark of numerical methods for density of states computation.  
+   (Des détails complémentaires et des liens vers les prépublications seront ajoutés prochainement.)
 
----
+## Interventions
+* **Introduction à la modélisation quantique des matériaux**  
+  Séminaire de vulgarisation des doctorants, LMO, France (Jan 2025)  
 
-# Présentations Orales
-* *Une introduction à la modélisation quantique des matériaux*. \
- Séminaire de vulgarisation des doctorants, LMO, France (Janvier 2025) 
-* *Méthodes d'ordre élevé pour l'intégration dans la zone de Brillouin*. \
-[Séminaire des jeunes chercheurs](https://cermics-lab.enpc.fr/seminaires/young-researchers-seminar/), Cermics, France, (25 Février 2025)
-* *Méthodes d'ordre élevé pour l'intégration dans la zone de Brillouin*. \
-Séminaire des doctorants, LaMMe, France, (A venir: Mars 2025)
-* *Méthodes d'ordre élevé pour l'intégration dans la zone de Brillouin*. \
-ICOSAHOM 2025, Montreal, Canada, (A venir: Juillet 2025)
+* **Méthodes d'ordre supérieur pour l'intégration sur la zone de Brillouin** (*[Slides](/slides-cermics.pdf)*) \
+  [Séminaire des jeunes chercheurs](https://cermics-lab.enpc.fr/seminaires/young-researchers-seminar/), CERMICS, France (Fév 2025)  
 
----
+* **Méthodes d'ordre supérieur pour l'intégration sur la zone de Brillouin**  
+  Séminaire des doctorants, LaMME, France (Prévu : Mar 2025)  
 
+* **Méthodes d'ordre supérieur pour l'intégration sur la zone de Brillouin**  
+  Séminaire des doctorants d'Analyse, LMO, France (Prévu : Mar 2025) 
 
-# Conférences et écoles scientifiques
-* *TRIQS Summer School.*  \
-Centre Port-Royal, France, (August 2023)
-* *5ème et 6ème édition  de la "Mini-school sur les mathématiques pour la chimie et la physique quantique" du GDR NBody*. \
-LJLL,(Juin 2023 et Mai 2024)
-* *Workshop sur les Systèmes Modèles en Chimie Quantique (MSQM)*. \
-Université Paul Sabatier, (Janvier 2024)
-* *MANUEL Conference*. \
-Université de Stuttgart, (Septembre 2024)
-* *Julia pour des problèmes numériques en physique quantique et des milieux condensés*. \
-CECAM, Lausanne,  (Novembre 2024)
-* *International Congress Of Spectral And High-Order Methods (ICOSAHOM 2025)*. \
-Montreal, (A venir: Juillet 2025)
+* **Méthodes d'ordre supérieur pour l'intégration sur la zone de Brillouin en structure électronique**  
+  ICOSAHOM 2025, Montréal, Canada (Prévu : Juil 2025)  
 
----
+## Conférences et Écoles Scientifiques Suivies
+* **École d'été TRIQS**  
+  Région parisienne, France (Août 2023)
 
+* **5ème et 6ème éditions de la Mini-école du GDR NBody sur les mathématiques pour la chimie théorique et la physique**  
+  LJLL, Paris, France (Juin 2023 et Mai 2024)
 
-# Posters
-* *Benchmark of numerical methods for density of states computation*. \
-MANUEL Conf, Stuttgart, (Septembre 2024)
+* **Atelier sur les systèmes modèles en mécanique quantique (MSQM)**  
+  Université Paul Sabatier, Toulouse, France (Jan 2024)
 
----
+* **MANUEL Conference**  
+  Université de Stuttgart, Stuttgart, Allemagne (Sep 2024)
 
+* **Atelier Julia sur les problèmes numériques en physique quantique et en physique des solides**  
+  CECAM, Lausanne, Suisse (Nov 2024)
 
-# Autres activités scientifiques
-* *Atelier scientifique sur les polyhèdres pour des classes de CE1 durant la Fête de la Science*. (Octobre 2025)
-* *Présentation de mon sujet de thèse aux [rencontres MathTech](https://fondation-hadamard.fr/fr/evenements/les-rencontres-mathtech/)*. (Janvier 2025)
+* **ICOSAHOM 2025**  
+  Montréal, Canada (Juil 2025)
+
+## Affiches
+* **Benchmark des méthodes numériques pour le calcul de la densité d'états**  
+  MANUEL Conference, Stuttgart, Allemagne (Sep 2024)
+
+## Autres Activités Scientifiques
+* **Animation d'un atelier sur les origamis/polyèdres pour des élèves du primaire lors de la Fête de la Science**  
+  Une semaine nationale d'ateliers destinés à inspirer les enfants à s'intéresser à la science (Oct 2025)
+
+* **Présentation de mon sujet de thèse lors d'une [journée de networking](https://fondation-hadamard.fr/fr/evenements/les-rencontres-mathtech/)**  
+  Une journée visant à mettre en relation les doctorants en mathématiques avec des professionnels du secteur privé (Jan 2025)

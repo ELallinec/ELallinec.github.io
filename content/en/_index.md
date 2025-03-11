@@ -3,17 +3,16 @@ title = "Ewen Lallinec"
 lang = "en"
 +++
 
-
 {{< figure class="avatar" src="/pdp.jpg" alt="avatar">}}
 
-I am a 2nd year PhD student under the supervision of [Antoine Levitt](https://www.imo.universite-paris-saclay.fr/~antoine.levitt/) in the Laboratoire de Mathématiques d'Orsay ([LMO](https://www.imo.universite-paris-saclay.fr/fr/)) of Paris Saclay University in France. 
+Hi and welcome on my website! I'm Ewen, a second-year PhD student under the supervision of [Antoine Levitt](https://www.imo.universite-paris-saclay.fr/~antoine.levitt/) in the Laboratoire de Mathématiques d'Orsay ([LMO](https://www.imo.universite-paris-saclay.fr/fr/)) of Paris Saclay University. 
 
-My full CV is available [here](/cv.pdf).
+My full CV is available [here](/en/cv.pdf).
 
-Pour accéder à la version française du site, cliquez  🇫🇷 [ici](/fr) 🇫🇷
+To access the French version of the site, please click 🇫🇷 [here](/fr) 🇫🇷
+
 # Research Interest
-
-I study numerical methods and more especially numerical integration methods used in both material sciences and quantum chemistry. 
+I am deeply interested in numerical methods, particularly those with applications in condensed matter physics and quantum chemistry. 
 
 ### Some Keywords
 * Numerical Analysis
@@ -21,18 +20,14 @@ I study numerical methods and more especially numerical integration methods used
 * Linear Algebra
 * Complex Analysis
 
-# Some notes 
-Here are some notes that I wrote and that might be useful to some people. 
-
-* [Small notes](/lt.pdf) about Linear Tetrahedron method for the DOS in 1D, 2D and 3D.
+# Some Notes
+Here are some notes I wrote that might be useful to others:
+* [Small notes](/lt.pdf) on the Linear Tetrahedron method for DOS computation in 1D, 2D, and 3D.
 
 # Programming
+A major part of my work involves implementing and testing numerical methods for computing electronic properties using [Julia](https://julialang.org/).
 
-A main part of my work is to implement and test numerical methods for the computation of electronic properties.
-To do so I use [Julia](https://julialang.org/). 
-
-Here are some packages I contributed to 
-* AutoBZCore.jl (implementation of 2 numerical methods for DOS computation)
-* ImplicitIntegration.jl 
-
+Here are some packages I have contributed to:
+* **AutoBZCore.jl** – Implementation of two numerical methods for DOS computation.
+* **ImplicitIntegration.jl** – Better bounds for the eigenvalues of Hamiltonians.
 

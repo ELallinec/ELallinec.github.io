@@ -6,31 +6,28 @@ url = "indexfr"
 
 {{< figure class="avatar" src="/pdp.jpg" alt="avatar">}}
 
-Je suis doctorant en 2ème année sous la direction d'[Antoine Levitt](https://www.imo.universite-paris-saclay.fr/~antoine.levitt/) au Laboratoire de Mathématiques d'Orsay ([LMO](https://www.imo.universite-paris-saclay.fr/fr/)). 
+Bienvenue sur ma page web ! Je me présente, Ewen Lallinec, doctorant en 2ème année sous la direction d'[Antoine Levitt](https://www.imo.universite-paris-saclay.fr/~antoine.levitt/) au Laboratoire de Mathématiques d'Orsay ([LMO](https://www.imo.universite-paris-saclay.fr/fr/)). 
 
-Mon CV détaillé est disponible [ici](/cv.pdf).
+Mon CV complet est disponible [ici](/fr/cv.pdf).
 
-For the english version of my website, click right 🇬🇧  [here](/en) 🇬🇧
+Pour accéder à la version anglaise du site, cliquez 🇬🇧 [ici](/en) 🇬🇧
 
-# Sujets de recherche
-J'étudie l'analyse numérique et plus précisement les méthodes d'intégration numérique utilisées en sciences des matériaux et chimie quantique.
+# Sujets de Recherche
+Je m'intéresse à l'analyse d'algorithmes utilisés en physique de la matière condensée et chimie quantique. 
 
 ### Quelques mots-clés
 * Analyse numérique
-* Mécanique quantique 
+* Mécanique quantique
 * Algèbre linéaire
 * Analyse complexe
 
-# Quelques notes
-Voici quelques notes que j'ai tapées qui peuvent être utiles (ou non ?) à certains
-
-* [Des petites notes](/lt.pdf) sur la Linear Tetrahedron méthode pour la DOS en 1D, 2D et 3D. 
+# Quelques Notes
+Voici quelques notes que j'ai rédigées et qui pourraient être utiles :
+* [Notes succinctes](/lt.pdf) sur la méthode du tétraèdre linéaire pour le calcul de la DOS en 1D, 2D et 3D.
 
 # Programmation
+Une grande partie de mon travail consiste à implémenter et tester des méthodes numériques pour le calcul des propriétés électroniques à l'aide de [Julia](https://julialang.org/).
 
-Une grande partie de mon travail consiste à implémenter et tester des méthodes numériques pour le calcul de propriétés électroniques.
-Je travaille uniquement en [Julia](https://julialang.org/). 
-
-Voici quelques packages auxquels j'ai contribué
-* AutoBZCore.jl - Implémentation de 2 méthodes numériques pour le calcul de densité d'état
-* ImplicitIntegration.jl 
+Voici quelques packages auxquels j'ai contribué :
+* **AutoBZCore.jl** – Implémentation de deux méthodes numériques pour le calcul de la densité d'états.
+* **ImplicitIntegration.jl** – Détermination de meilleurs bornes pour les valeurs propres d'Hamiltoniens.
