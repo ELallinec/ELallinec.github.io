@@ -2,32 +2,32 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/contact/</loc>
+    <loc>https://elallinec.github.io/contact/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr-FR"
-                href="http://localhost:1313/fr/contact/"
+                href="https://elallinec.github.io/fr/contact/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-US"
-                href="http://localhost:1313/contact/"
+                href="https://elallinec.github.io/contact/"
                 />
   </url><url>
-    <loc>http://localhost:1313/</loc>
+    <loc>https://elallinec.github.io/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr-FR"
-                href="http://localhost:1313/fr/"
+                href="https://elallinec.github.io/fr/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-US"
-                href="http://localhost:1313/"
+                href="https://elallinec.github.io/"
                 />
   </url><url>
-    <loc>http://localhost:1313/research/</loc>
+    <loc>https://elallinec.github.io/research/</loc>
   </url><url>
-    <loc>http://localhost:1313/teaching/</loc>
+    <loc>https://elallinec.github.io/teaching/</loc>
   </url>
 </urlset>

@@ -3,7 +3,8 @@ title = "Contact"
 lang = "en"
 +++
 
-* **Email:** [ewen.lallinec@universite-paris-saclay.fr](mailto:ewen.lallinec@universite-paris-saclay.fr)
+* **Email:** <a href="mailto:&#101;&#119;&#101;&#110;&#46;&#108;&#97;&#108;&#108;&#105;&#110;&#101;&#99;&#64;&#117;&#110;&#105;&#118;&#101;&#114;&#115;&#105;&#116;&#101;&#45;&#112;&#97;&#114;&#105;&#115;&#45;&#115;&#97;&#99;&#108;&#97;&#121;&#46;&#102;&#114;">&#101;&#119;&#101;&#110;&#46;&#108;&#97;&#108;&#108;&#105;&#110;&#101;&#99;&#64;&#117;&#110;&#105;&#118;&#101;&#114;&#115;&#105;&#116;&#101;&#45;&#112;&#97;&#114;&#105;&#115;&#45;&#115;&#97;&#99;&#108;&#97;&#121;&#46;&#102;&#114;</a>
+
 * **Office:** 2A4, Institut de Mathématiques d'Orsay, 307 rue Michel Magat, Orsay
 
 Feel free to reach out for whatever questions or topic you wish to discuss !

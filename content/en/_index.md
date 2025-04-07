@@ -7,7 +7,7 @@ lang = "en"
 
 Hi and welcome on my website! I'm Ewen, a second-year PhD student under the supervision of [Antoine Levitt](https://www.imo.universite-paris-saclay.fr/~antoine.levitt/) in the Laboratoire de Mathématiques d'Orsay ([LMO](https://www.imo.universite-paris-saclay.fr/fr/)) of Paris Saclay University. 
 
-My full CV is available [here](/en/cv.pdf).
+My full CV is available [here](/en/cven.pdf).
 
 To access the French version of the site, please click 🇫🇷 [here](/fr) 🇫🇷
 

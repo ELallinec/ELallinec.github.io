@@ -8,7 +8,7 @@ url = "indexfr"
 
 Bienvenue sur ma page web ! Je me présente, Ewen Lallinec, doctorant en 2ème année sous la direction d'[Antoine Levitt](https://www.imo.universite-paris-saclay.fr/~antoine.levitt/) au Laboratoire de Mathématiques d'Orsay ([LMO](https://www.imo.universite-paris-saclay.fr/fr/)). 
 
-Mon CV complet est disponible [ici](/fr/cv.pdf).
+Mon CV complet est disponible [ici](/fr/cvfr.pdf).
 
 Pour accéder à la version anglaise du site, cliquez 🇬🇧 [ici](/en) 🇬🇧
 
