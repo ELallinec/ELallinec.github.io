@@ -3,7 +3,7 @@ title = "Ewen Lallinec"
 lang = "en"
 +++
 
-{{< figure class="avatar" src="/pdp.jpg" alt="avatar">}}
+{{< figure class="avatar" src="/moi_rando.jpeg" alt="avatar">}}
 
 Hi and welcome on my website! I'm Ewen, a second-year PhD student under the supervision of [Antoine Levitt](https://www.imo.universite-paris-saclay.fr/~antoine.levitt/) in the Laboratoire de Mathématiques d'Orsay ([LMO](https://www.imo.universite-paris-saclay.fr/fr/)) of Paris Saclay University. 
 

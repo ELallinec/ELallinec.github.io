@@ -4,7 +4,7 @@ url = "indexfr"
 +++
 
 
-{{< figure class="avatar" src="/pdp.jpg" alt="avatar">}}
+{{< figure class="avatar" src="/moi_rando.jpeg" alt="avatar">}}
 
 Bienvenue sur ma page web ! Je me présente, Ewen Lallinec, doctorant en 2ème année sous la direction d'[Antoine Levitt](https://www.imo.universite-paris-saclay.fr/~antoine.levitt/) au Laboratoire de Mathématiques d'Orsay ([LMO](https://www.imo.universite-paris-saclay.fr/fr/)). 
 
