@@ -23,7 +23,7 @@ defaultContentLanguageInSubdir = false
     fontFamily = "Inconsolata"
     fontSize = "14pt"
     pageWidth = "900px"
-    avatarSize = "220px"
+    avatarSize = "330px"
     colorBlack = "#222222"
     colorRed = "#dc3545"
 
