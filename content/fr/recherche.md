@@ -6,7 +6,7 @@ lang = "fr"
 ## Publications
 
 *À paraître :*  
-1. **E. Lallinec, A. Levitt** : Benchmark of numerical methods for density of states computation.  
+1. **E. Lallinec, A. Levitt** : Numerical methods for the computation of densities of states.  
    (Des détails complémentaires et des liens vers les prépublications seront ajoutés prochainement.)
 
 ## Interventions
@@ -17,10 +17,10 @@ lang = "fr"
   [Séminaire des jeunes chercheurs](https://cermics-lab.enpc.fr/seminaires/young-researchers-seminar/), CERMICS, France (Fév 2025)  
 
 * **Méthodes d'ordre supérieur pour l'intégration sur la zone de Brillouin**  
-  Séminaire des doctorants, LaMME, France (Prévu : Mar 2025)  
+  Séminaire des doctorants d'Analyse, LMO, France (Mai 2025) 
 
 * **Méthodes d'ordre supérieur pour l'intégration sur la zone de Brillouin**  
-  Séminaire des doctorants d'Analyse, LMO, France (Prévu : Mar 2025) 
+  Séminaire des doctorants, LaMME, France (Juin 2025)  
 
 * **Méthodes d'ordre supérieur pour l'intégration sur la zone de Brillouin en structure électronique**  
   ICOSAHOM 2025, Montréal, Canada (Prévu : Juil 2025)  
@@ -29,8 +29,8 @@ lang = "fr"
 * **École d'été TRIQS**  
   Région parisienne, France (Août 2023)
 
-* **5ème et 6ème éditions de la Mini-école du GDR NBody sur les mathématiques pour la chimie théorique et la physique**  
-  LJLL, Paris, France (Juin 2023 et Mai 2024)
+* **5ème, 6ème et 7ème éditions de la Mini-école du GDR NBody sur les mathématiques pour la chimie théorique et la physique**  
+  LJLL, Paris, France (Juin 2023, Mai 2024 et Mai 2025)
 
 * **Atelier sur les systèmes modèles en mécanique quantique (MSQM)**  
   Université Paul Sabatier, Toulouse, France (Jan 2024)
