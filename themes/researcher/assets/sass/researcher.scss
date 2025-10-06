@@ -227,3 +227,15 @@ body.dark-mode li {
 margin: 10px
 }
 
+hr {
+  border: none;
+  border-top: 1px solid #888; // visible en mode clair
+  margin: $y-medium 0;
+}
+
+/* Version dark mode */
+body.dark-mode hr {
+  border-top: 1px solid #555; // une couleur contrastée avec ton fond sombre
+}
+
+
