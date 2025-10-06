@@ -13,7 +13,7 @@ Mon CV complet est disponible [ici](/fr/cvfr.pdf).
 Pour accéder à la version anglaise du site, cliquez 🇬🇧 [ici](/en) 🇬🇧
 
 # Sujets de Recherche
-Je m'intéresse à l'analyse d'algorithmes utilisés en physique de la matière condensée et chimie quantique. En particulier je m'intéresse à l'intégration dans la zone de Brillouin et plus particulièrement le calcul de la densité d'états (DOS).
+Je m'intéresse à l'analyse d'algorithmes utilisés en physique de la matière condensée et chimie quantique. Plus précisément, j'étudie l'intégration dans la zone de Brillouin et plus particulièrement le calcul de la densité d'états (DOS).
 
 ### Quelques mots-clés
 * Analyse numérique
