@@ -65,6 +65,6 @@ lang = "en"
   An event connecting mathematics PhD researchers with professionals from private companies (Jan 2025)
 
 - **Winner of the [MathTech Challenge](https://www.fondation-hadamard.fr/fr/evenements/le-defi-mathtech/), as part of a team with Clémentine Barat and Arthur Yax, on the theme:** *“Modeling and forecasting to optimize the flexibility of the electrical system.”*  
-  The challenge consisted of one week of collaborative research, followed by a short presentation showcasing research directions and preliminary results addressing the proposed problem.  
+  A week of collaborative research, followed by a short presentation showcasing research directions and preliminary results addressing a problem extracted from the general theme.  
 
 

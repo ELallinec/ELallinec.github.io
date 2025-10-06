@@ -67,7 +67,7 @@ lang = "fr"
 
 
 - **Lauréat du [Défi MathTech](https://www.fondation-hadamard.fr/fr/evenements/le-defi-mathtech/), en équipe avec Clémentine Barat et Arthur Yax, sur le thème :** *« Modélisation et prévision pour optimiser les flexibilités du système électrique ».*  
-  Ce défi consistait en une semaine de travail collaboratif de recherche, suivie d’une soutenance courte présentant des pistes de recherche et des résultats préliminaires liés à la problématique proposée.  
+  Une semaine de travail collaboratif de recherche, suivie d’une soutenance courte présentant des pistes de recherche et des résultats préliminaires liés à une problématique proposée par notre groupe.  
 
 
 
