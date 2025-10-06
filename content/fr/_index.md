@@ -6,14 +6,14 @@ url = "indexfr"
 
 {{< figure class="avatar" src="/moi_rando.jpeg" alt="avatar">}}
 
-Bienvenue sur ma page web ! Je me présente, Ewen Lallinec, doctorant en 2ème année sous la direction d'[Antoine Levitt](https://www.imo.universite-paris-saclay.fr/~antoine.levitt/) au Laboratoire de Mathématiques d'Orsay ([LMO](https://www.imo.universite-paris-saclay.fr/fr/)). 
+Bienvenue sur ma page web ! Je me présente, Ewen Lallinec, doctorant en 3ème année sous la direction d'[Antoine Levitt](https://www.imo.universite-paris-saclay.fr/~antoine.levitt/) au Laboratoire de Mathématiques d'Orsay ([LMO](https://www.imo.universite-paris-saclay.fr/fr/)). 
 
 Mon CV complet est disponible [ici](/fr/cvfr.pdf).
 
 Pour accéder à la version anglaise du site, cliquez 🇬🇧 [ici](/en) 🇬🇧
 
 # Sujets de Recherche
-Je m'intéresse à l'analyse d'algorithmes utilisés en physique de la matière condensée et chimie quantique. 
+Je m'intéresse à l'analyse d'algorithmes utilisés en physique de la matière condensée et chimie quantique. En particulier je m'intéresse à l'intégration dans la zone de Brillouin et plus particulièrement le calcul de la densité d'états (DOS).
 
 ### Quelques mots-clés
 * Analyse numérique

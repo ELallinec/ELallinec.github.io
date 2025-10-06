@@ -5,14 +5,14 @@ lang = "en"
 
 {{< figure class="avatar" src="/moi_rando.jpeg" alt="avatar">}}
 
-Hi and welcome on my website! I'm Ewen, a second-year PhD student under the supervision of [Antoine Levitt](https://www.imo.universite-paris-saclay.fr/~antoine.levitt/) in the Laboratoire de Mathématiques d'Orsay ([LMO](https://www.imo.universite-paris-saclay.fr/fr/)) of Paris Saclay University. 
+Hi and welcome on my website! I'm Ewen, a third-year PhD student under the supervision of [Antoine Levitt](https://www.imo.universite-paris-saclay.fr/~antoine.levitt/) in the Laboratoire de Mathématiques d'Orsay ([LMO](https://www.imo.universite-paris-saclay.fr/fr/)) of Paris Saclay University. 
 
 My full CV is available [here](/en/cven.pdf).
 
 To access the French version of the site, please click 🇫🇷 [here](/fr) 🇫🇷
 
 # Research Interest
-I am deeply interested in numerical methods, particularly those with applications in condensed matter physics and quantum chemistry. 
+I am deeply interested in numerical methods, particularly those with applications in condensed matter physics and quantum chemistry. In particular, I study Brillouin zone integration and the special case of the density of states (DOS).
 
 ### Some Keywords
 * Numerical Analysis
