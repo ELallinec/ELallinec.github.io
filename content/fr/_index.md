@@ -10,7 +10,7 @@ Bienvenue sur ma page web ! Je me présente, Ewen Lallinec, doctorant en 3ème a
 
 Mon CV complet est disponible [ici](/fr/cvfr.pdf).
 
-Pour accéder à la version anglaise du site, cliquez 🇬🇧 [ici](/en) 🇬🇧
+To access the English version of the site, please click 🇬🇧 [here](/en) 🇬🇧
 
 # Sujets de Recherche
 Je m'intéresse à l'analyse d'algorithmes utilisés en physique de la matière condensée et chimie quantique. Plus précisément, j'étudie l'intégration dans la zone de Brillouin avec un focus sur le calcul de la densité d'états (DOS).
