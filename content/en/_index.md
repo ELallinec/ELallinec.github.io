@@ -28,6 +28,6 @@ Here are some notes I wrote that might be useful to others:
 A major part of my work involves implementing and testing numerical methods for computing electronic properties using [Julia](https://julialang.org/).
 
 Here are some packages I have contributed to:
-* **AutoBZCore.jl** – Implementation of two numerical methods for DOS computation.
+* **[AutoBZCore.jl](https://lxvm.github.io/AutoBZCore.jl/stable/)** – Implementation of two numerical methods for DOS computation.
 * **ImplicitIntegration.jl** – Better bounds for the eigenvalues of Hamiltonians.
 

@@ -29,5 +29,5 @@ Voici quelques notes que j'ai rédigées et qui pourraient être utiles :
 Une grande partie de mon travail consiste à implémenter et tester des méthodes numériques pour le calcul des propriétés électroniques à l'aide de [Julia](https://julialang.org/).
 
 Voici quelques packages auxquels j'ai contribué :
-* **AutoBZCore.jl** – Implémentation de deux méthodes numériques pour le calcul de la densité d'états.
+* **[AutoBZCore.jl](https://lxvm.github.io/AutoBZCore.jl/stable/)** – Implémentation de deux méthodes numériques pour le calcul de la densité d'états.
 * **ImplicitIntegration.jl** – Détermination de meilleurs bornes pour les valeurs propres d'Hamiltoniens.
