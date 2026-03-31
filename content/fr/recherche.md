@@ -7,7 +7,7 @@ lang = "fr"
 
 ## Publications
 
-*À paraître :*
+*Paru :*
 1. **E. Lallinec, A. Levitt** : Numerical methods for the computation of densities of states.
   Lien vers le [preprint](https://hal.science/hal-05572898), soumis.
 
