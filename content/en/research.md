@@ -6,7 +6,7 @@ lang = "en"
 
 ## Publications
 
-*Published:*
+*Preprints:*
 1. **E. Lallinec, A. Levitt**: Numerical methods for the computation of densities of states of
 periodic operators.
 Link to [preprint](https://hal.science/hal-05572898), submitted.
